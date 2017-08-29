@@ -1,0 +1,7 @@
+*.pdf
+*.SUNet
+*.pyc
+experiments/checkpoints/*
+experiments/*/processed/*
+experiments/venv/*
+
