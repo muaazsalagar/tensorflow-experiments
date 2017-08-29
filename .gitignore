@@ -4,4 +4,4 @@
 experiments/checkpoints/*
 experiments/*/processed/*
 experiments/venv/*
-
+*/.ipynb_checkpoints/*
